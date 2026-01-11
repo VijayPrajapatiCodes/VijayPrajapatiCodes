@@ -26,7 +26,7 @@
         </font>
       </p>
       <p>
-        Namaste! I'm <b>Vijay Prajapati</b>, a passionate <b>Full Stack Engineer</b> who thrives in the intersection of elegant design and complex logic. My mission is to architect digital solutions that are not just scalable but also exceptionally secure.
+        Hello! I'm <b>Vijay Prajapati</b>, a passionate <b> Java Full Stack Developer </b> who thrives in the intersection of elegant design and complex logic. My mission is to architect digital solutions that are not just scalable but also exceptionally secure.
       </p>
       <p>
         <b>🔥 Key Competencies:</b>
