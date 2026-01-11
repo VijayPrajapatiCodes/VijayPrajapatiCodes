@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=VIJAY%20PRAJAPATI&fontSize=80&animation=fadeIn&fontColor=FFFFFF&fontAlignY=35&desc=Full%20Stack%20Sorcerer%20🧙‍♂️&descSize=28&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D1FF&text=VIJAY%20PRAJAPATI&height=180&fontSize=95&desc=THE%20FULL%20STACK%20ELITE&descAlignY=70&descSize=25&animation=twinkling&fontAlignY=30" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=Crafting%20Digital%20Experiences%20✨;Java%20Backend%20Maestro%20⚙️;React%20UI%20Innovator%20🎨;Solving%20Complex%20Challenges%20🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&pause=1000&color=FF00CC&center=true&vCenter=true&width=800&lines=🔓+SYSTEM+INITIATED...;⚙️+JAVA+BACKEND+ARCHITECT;🎨+REACT+UI+MAESTRO;🚀+INNOVATING+DIGITAL+FRONTIERS" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VijayPrajapatiCodes&label=PROFILE+VIEWS&color=00d1ff&style=for-the-badge&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=VijayPrajapatiCodes&label=PROFILE+HITS&color=00D1FF&style=plastic&logo=hackthebox" />
 </p>
 
 <br/>
