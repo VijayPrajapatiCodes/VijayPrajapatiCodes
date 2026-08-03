@@ -1,92 +1,283 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00D1FF&text=VIJAY%20PRAJAPATI&height=180&fontSize=95&desc=THE%20FULL%20STACK%20ELITE&descAlignY=70&descSize=25&animation=twinkling&fontAlignY=30" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&pause=1000&color=FF00CC&center=true&vCenter=true&width=800&lines=🔓+SYSTEM+INITIATED...;⚙️+JAVA+BACKEND+ARCHITECT;🎨+REACT+UI+MAESTRO;🚀+INNOVATING+DIGITAL+FRONTIERS" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Vijay Prajapati
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VijayPrajapatiCodes&label=PROFILE+HITS&color=00D1FF&style=plastic&logo=hackthebox" />
-</p>
+### Java Full Stack Developer | Spring Boot | React | MySQL
+
+**Building scalable backend systems, full-stack applications, and developer tools.**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React+%7C+JavaScript+%7C+Modern+Web;Building+Real-World+Software+Projects" alt="Typing SVG" />
 
 <br/>
 
-<h2 align="left">🚀 𝔸𝕓𝕠𝕦𝕥 𝕋𝕙𝕖 𝔸𝕣𝕔𝕙𝕚𝕥𝕖𝕔𝕥</h2>
+<img src="https://komarev.com/ghpvc/?username=VijayPrajapatiCodes&label=Profile+Views&color=0e75b6&style=flat" />
 
-<table border="0">
-  <tr>
-    <td width="45%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJtZzZpZ3R4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" style="border-radius: 15px;" />
-    </td>
-    <td width="55%" style="vertical-align: top; padding-left: 20px;">
-      <p align="justify">
-        <font size="4" face="Courier New">
-          <b><i>"Writing code that speaks, building systems that last."</i></b> 💎
-        </font>
-      </p>
-      <p>
-        Hello! I'm <b>Vijay Prajapati</b>, a passionate <b> Java Full Stack Developer </b> who thrives in the intersection of elegant design and complex logic. My mission is to architect digital solutions that are not just scalable but also exceptionally secure.
-      </p>
-      <p>
-        <b>🔥 Key Competencies:</b>
-      </p>
-      <ul style="list-style-type: '⚡ ';">
-        <li><b>Backend Mastery:</b> Crafting robust microservices using <b>Spring Boot & Java</b>.</li>
-        <li><b>Frontend Excellence:</b> Designing immersive UIs with <b>React & Modern JS</b>.</li>
-        <li><b>Data Integrity:</b> Expertly managing complex schemas in <b>MySQL</b>.</li>
-        <li><b>Version Control:</b> Ensuring seamless collaboration via <b>Git & GitHub</b>.</li>
-      </ul>
-    </td>
-  </tr>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Vijay Prajapati**, a Java Full Stack Developer focused on building practical, scalable, and maintainable software applications.
+
+My primary focus is **backend development with Java and Spring Boot**, while also building complete user experiences using **React and modern JavaScript**.
+
+I enjoy understanding how software works beyond frameworks — from **Core Java, SQL, JDBC, and database design** to **REST APIs, Spring Boot, frontend development, and developer tooling**.
+
+* 🔭 Building real-world projects using **Java, Spring Boot, React & MySQL**
+* 🌱 Strengthening my knowledge of **Spring Boot, Backend Architecture & REST APIs**
+* 🧠 Practicing **Data Structures, SQL, and Backend Engineering**
+* 🛠️ Building developer tools and practical software products
+* ☁️ Exploring **Docker, AWS & Cloud Deployment**
+* 🎯 Goal: Become a strong **Software Engineer / Java Backend Developer**
+* 💡 Interested in **Backend Engineering, SaaS Products & Developer Tools**
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 VijayBaazar
+
+Full-stack **e-commerce platform** built with Java and Spring Boot.
+
+**Highlights**
+
+* RESTful backend architecture
+* Product & inventory management
+* Shopping cart & order system
+* Authentication workflow
+* Cashfree payment integration
+* MySQL database integration
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Hibernate` `MySQL` `REST API` `JavaScript`
+
+<a href="https://github.com/VijayPrajapatiCodes/VijayBaazar">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 FixWise
+
+A developer-focused **VS Code extension** designed to help developers identify coding mistakes and understand potential fixes while writing code.
+
+**Highlights**
+
+* Real-time code analysis
+* Error & mistake highlighting
+* Developer-friendly explanations
+* Debugging assistance
+* Published VS Code extension
+
+**Tech Stack**
+
+`JavaScript` `VS Code API` `Developer Tools`
+
+<a href="https://github.com/VijayPrajapatiCodes/FixWise">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💬 NexoraChat
+
+A real-time communication application focused on **private messaging and modern communication features**.
+
+**Highlights**
+
+* Real-time messaging
+* Private communication
+* Chat functionality
+* Video communication
+* Full-stack architecture
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `WebSocket`
+
+<a href="https://github.com/VijayPrajapatiCodes/NexoraChat">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 Student Management System
+
+Java backend project demonstrating **JDBC and relational database fundamentals** without relying on ORM abstractions.
+
+**Highlights**
+
+* JDBC database connectivity
+* CRUD operations
+* DAO architecture
+* Service layer
+* MySQL integration
+* Clean project structure
+
+**Tech Stack**
+
+`Java` `JDBC` `MySQL` `Maven`
+
+<a href="https://github.com/VijayPrajapatiCodes/Student-Management-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ 𝕋𝕖𝕔𝕙𝕟𝕚𝕔𝕒𝕝 𝔸𝕣𝕤𝕖𝕟𝕒𝕝
+# 🛠️ Technical Skills
 
-### 🎨 Frontend Mastery
-| HTML5 | CSS3 | JavaScript | React.js | Tailwind |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="45"> | <img src="https://skillicons.dev/icons?i=css" width="45"> | <img src="https://skillicons.dev/icons?i=js" width="45"> | <img src="https://skillicons.dev/icons?i=react" width="45"> | <img src="https://skillicons.dev/icons?i=tailwind" width="45"> |
+### Backend Development
 
-### ⚙️ Backend & Database
-| Java | Spring Boot | MySQL | Hibernate | Maven |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=java" width="45"> | <img src="https://skillicons.dev/icons?i=spring" width="45"> | <img src="https://skillicons.dev/icons?i=mysql" width="45"> | <img src="https://skillicons.dev/icons?i=hibernate" width="45"> | <img src="https://skillicons.dev/icons?i=maven" width="45"> |
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</p>
 
-### 🧰 Tools & Platforms
-| Git | GitHub | VS Code | Postman | Docker |
-| :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=git" width="45"> | <img src="https://skillicons.dev/icons?i=github" width="45"> | <img src="https://skillicons.dev/icons?i=vscode" width="45"> | <img src="https://skillicons.dev/icons?i=postman" width="45"> | <img src="https://skillicons.dev/icons?i=docker" width="45"> |
+`Java` • `Spring Boot` • `Spring Framework` • `REST APIs` • `JDBC` • `Hibernate / JPA` • `Maven`
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+`HTML5` • `CSS3` • `JavaScript` • `React.js` • `Bootstrap` • `Tailwind CSS`
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`MySQL` • `SQL` • `Database Design` • `Joins` • `Transactions` • `JDBC`
+
+### Tools & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
+</p>
+
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman` • `Docker`
 
 ---
 
-## 📈 𝔾𝕚𝕥𝕙𝕦𝕓 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VijayPrajapatiCodes&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijayPrajapatiCodes&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+# 📚 Engineering Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayPrajapatiCodes&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+```text
+Core Java
+    ↓
+Object-Oriented Programming
+    ↓
+Collections & Modern Java
+    ↓
+SQL & MySQL
+    ↓
+JDBC
+    ↓
+Spring Framework
+    ↓
+Spring Boot
+    ↓
+REST API Development
+    ↓
+Full Stack Development
+    ↓
+Docker & Cloud
+```
+
+I maintain dedicated repositories documenting this journey:
+
+* ☕ **Java Backend Roadmap**
+* 🗄️ **SQL for Java Developers**
+* 🌱 **Spring Framework for Java Developers**
+* 🚀 **Spring Boot for Java Developers**
+
+These repositories contain structured notes, examples, exercises, and practical implementations developed while strengthening my backend engineering fundamentals.
 
 ---
 
-## 🌐 ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕎𝕚𝕥𝕙 𝕄𝕖
-<p align="center">
-  <a href="https://www.linkedin.com/in/thevijayprajapati/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/VijayPrajapatiCodes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vijayprajapati24645@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vijay" />
-  </a>
-</p>
+# 🎯 Currently Working On
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d1ff&height=100&section=footer" />
-</p>
+```java
+public class CurrentFocus {
+
+    String[] learning = {
+        "Advanced Spring Boot",
+        "Backend Architecture",
+        "REST API Design",
+        "Docker",
+        "AWS",
+        "Data Structures & Algorithms"
+    };
+
+    String goal =
+        "Build production-ready Java backend applications";
+}
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VijayPrajapatiCodes&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=VijayPrajapatiCodes&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayPrajapatiCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in opportunities involving **Java Backend Development, Spring Boot, Full Stack Development, and Software Engineering**.
+
+If you're looking for a developer who enjoys learning deeply and building practical software, feel free to connect with me.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/thevijayprajapati/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:vijayprajapati24645@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/VijayPrajapatiCodes">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Build. Learn. Improve. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=100&section=footer" />
+
+</div>
