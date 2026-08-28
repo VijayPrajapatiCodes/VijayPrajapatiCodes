@@ -41,6 +41,7 @@ I enjoy understanding how applications work from the fundamentals of **Core Java
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛒 VijayBaazar
@@ -60,6 +61,8 @@ A full-stack **e-commerce application** built with Java and Spring Boot.
 **Tech Stack**
 
 `Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL` `REST API` `JavaScript`
+
+<br/>
 
 <a href="https://github.com/VijayPrajapatiCodes/VijayBaazar">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -86,14 +89,18 @@ A full-stack real-time communication application focused on **private messaging 
 
 `Java` `Spring Boot` `React` `WebSocket` `JavaScript`
 
+<br/>
+
 <a href="https://github.com/VijayPrajapatiCodes/NexoraChat">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🧠 FixWise
@@ -111,6 +118,8 @@ A developer-focused **VS Code extension** designed to help developers understand
 **Tech Stack**
 
 `JavaScript` `VS Code API` `Developer Tools`
+
+<br/>
 
 <a href="https://github.com/VijayPrajapatiCodes/FixWise">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -140,11 +149,14 @@ A Spring Boot backend project focused on **authentication, authorization, cachin
 
 `Java` `Spring Boot` `Spring Security` `JWT` `Redis` `JPA` `MySQL` `Docker`
 
+<br/>
+
 <a href="https://github.com/VijayPrajapatiCodes">
 <img src="https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -152,7 +164,7 @@ A Spring Boot backend project focused on **authentication, authorization, cachin
 
 # 🛠️ Technical Skills
 
-### Backend Development
+## ☕ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
@@ -160,7 +172,15 @@ A Spring Boot backend project focused on **authentication, authorization, cachin
 
 `Java` • `Spring Boot` • `Spring Framework` • `Spring Security` • `REST APIs` • `JDBC` • `Hibernate / JPA` • `Maven`
 
-### Database & Caching
+<p>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
+
+---
+
+## 🗄️ Database & Caching
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,redis" />
@@ -168,7 +188,9 @@ A Spring Boot backend project focused on **authentication, authorization, cachin
 
 `MySQL` • `SQL` • `Database Design` • `Joins` • `Transactions` • `JDBC` • `Redis`
 
-### Frontend Development
+---
+
+## ⚛️ Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
@@ -176,11 +198,25 @@ A Spring Boot backend project focused on **authentication, authorization, cachin
 
 `HTML5` • `CSS3` • `JavaScript` • `React.js` • `Bootstrap` • `Tailwind CSS`
 
-### Messaging & Architecture
+---
 
-`Apache Kafka` • `Microservices` • `Event-Driven Architecture` • `System Design` • `Backend Architecture`
+## 📨 Messaging & Architecture
 
-### DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=kafka" />
+</p>
+
+`Apache Kafka` • `Event-Driven Architecture` • `Microservices` • `System Design` • `Backend Architecture`
+
+<p>
+<img src="https://img.shields.io/badge/Event--Driven_Architecture-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-333333?style=for-the-badge" />
+</p>
+
+---
+
+## 🐳 DevOps, Cloud & Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
