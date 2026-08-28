@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Vijay Prajapati
 
-### Java Full Stack Developer | Spring Boot | React | MySQL
+### Java Full Stack Developer | Java | Spring Boot | React | MySQL
 
-**Building scalable backend systems, full-stack applications, and developer tools.**
+**Building practical backend systems, full-stack applications, and developer-focused software.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;React+%7C+JavaScript+%7C+Modern+Web;Building+Real-World+Software+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D1FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;Spring+Security+%7C+JPA+%7C+MySQL;React+%7C+JavaScript+%7C+Modern+Web;Building+Practical+Software+Projects" alt="Typing SVG" />
 
 <br/>
 
@@ -18,19 +18,22 @@
 
 ## 👨‍💻 About Me
 
-I'm **Vijay Prajapati**, a Java Full Stack Developer focused on building practical, scalable, and maintainable software applications.
+I'm **Vijay Prajapati**, a Java Full Stack Developer focused on building practical software applications with a strong interest in **backend engineering**.
 
-My primary focus is **backend development with Java and Spring Boot**, while also building complete user experiences using **React and modern JavaScript**.
+My primary development focus is **Java and Spring Boot**, along with **Spring Security, REST APIs, JPA/Hibernate, MySQL, React, and JavaScript**.
 
-I enjoy understanding how software works beyond frameworks — from **Core Java, SQL, JDBC, and database design** to **REST APIs, Spring Boot, frontend development, and developer tooling**.
+I enjoy understanding how applications work from the fundamentals of **Core Java, SQL, JDBC, and database design** to backend architecture, security, caching, messaging, containerization, and cloud deployment.
 
-* 🔭 Building real-world projects using **Java, Spring Boot, React & MySQL**
-* 🌱 Strengthening my knowledge of **Spring Boot, Backend Architecture & REST APIs**
-* 🧠 Practicing **Data Structures, SQL, and Backend Engineering**
-* 🛠️ Building developer tools and practical software products
-* ☁️ Exploring **Docker, AWS & Cloud Deployment**
-* 🎯 Goal: Become a strong **Software Engineer / Java Backend Developer**
-* 💡 Interested in **Backend Engineering, SaaS Products & Developer Tools**
+* 🔭 Building practical applications using **Java, Spring Boot, React & MySQL**
+* 🔐 Working with **Spring Security, JWT authentication & role-based authorization**
+* 🗄️ Building backend systems with **JPA/Hibernate, SQL & relational database design**
+* ⚡ Learning and implementing **Redis for caching and backend performance**
+* 📨 Learning **Apache Kafka and event-driven application concepts**
+* 🧩 Exploring **Microservices architecture and distributed systems**
+* 🐳 Practicing **Docker & Docker Compose** for application containerization
+* ☁️ Learning **AWS and cloud deployment fundamentals**
+* 🏗️ Improving my understanding of **System Design and Backend Architecture**
+* 🎯 Goal: Grow into a strong **Java Backend / Software Engineer**
 
 ---
 
@@ -42,20 +45,21 @@ I enjoy understanding how software works beyond frameworks — from **Core Java,
 
 ### 🛒 VijayBaazar
 
-Full-stack **e-commerce platform** built with Java and Spring Boot.
+A full-stack **e-commerce application** built with Java and Spring Boot.
 
 **Highlights**
 
-* RESTful backend architecture
+* RESTful backend APIs
 * Product & inventory management
-* Shopping cart & order system
-* Authentication workflow
+* Shopping cart & order management
+* User authentication
 * Cashfree payment integration
 * MySQL database integration
+* JPA / Hibernate based persistence
 
 **Tech Stack**
 
-`Java` `Spring Boot` `Hibernate` `MySQL` `REST API` `JavaScript`
+`Java` `Spring Boot` `Spring Security` `JPA` `Hibernate` `MySQL` `REST API` `JavaScript`
 
 <a href="https://github.com/VijayPrajapatiCodes/VijayBaazar">
 <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -65,9 +69,36 @@ Full-stack **e-commerce platform** built with Java and Spring Boot.
 
 <td width="50%" valign="top">
 
+### 💬 NexoraChat
+
+A full-stack real-time communication application focused on **private messaging and modern communication features**.
+
+**Highlights**
+
+* Real-time messaging
+* Private communication
+* Chat functionality
+* WebSocket-based communication
+* Video communication
+* Full-stack architecture
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `WebSocket` `JavaScript`
+
+<a href="https://github.com/VijayPrajapatiCodes/NexoraChat">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 FixWise
 
-A developer-focused **VS Code extension** designed to help developers identify coding mistakes and understand potential fixes while writing code.
+A developer-focused **VS Code extension** designed to help developers understand coding mistakes and potential fixes while working in the editor.
 
 **Highlights**
 
@@ -86,54 +117,31 @@ A developer-focused **VS Code extension** designed to help developers identify c
 </a>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💬 NexoraChat
-
-A real-time communication application focused on **private messaging and modern communication features**.
-
-**Highlights**
-
-* Real-time messaging
-* Private communication
-* Chat functionality
-* Video communication
-* Full-stack architecture
-
-**Tech Stack**
-
-`Java` `Spring Boot` `React` `WebSocket`
-
-<a href="https://github.com/VijayPrajapatiCodes/NexoraChat">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
 
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
+### 🔐 Backend Authentication System
 
-Java backend project demonstrating **JDBC and relational database fundamentals** without relying on ORM abstractions.
+A Spring Boot backend project focused on **authentication, authorization, caching, and API development**.
 
 **Highlights**
 
-* JDBC database connectivity
-* CRUD operations
-* DAO architecture
-* Service layer
-* MySQL integration
-* Clean project structure
+* JWT-based authentication
+* Spring Security
+* Role-based authorization
+* BCrypt password hashing
+* Redis caching
+* MySQL persistence
+* Pagination & sorting
+* Dynamic search using JPA Specifications
+* Docker-based setup
 
 **Tech Stack**
 
-`Java` `JDBC` `MySQL` `Maven`
+`Java` `Spring Boot` `Spring Security` `JWT` `Redis` `JPA` `MySQL` `Docker`
 
-<a href="https://github.com/VijayPrajapatiCodes/Student-Management-System">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/VijayPrajapatiCodes">
+<img src="https://img.shields.io/badge/View_Profile-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -150,7 +158,15 @@ Java backend project demonstrating **JDBC and relational database fundamentals**
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-`Java` • `Spring Boot` • `Spring Framework` • `REST APIs` • `JDBC` • `Hibernate / JPA` • `Maven`
+`Java` • `Spring Boot` • `Spring Framework` • `Spring Security` • `REST APIs` • `JDBC` • `Hibernate / JPA` • `Maven`
+
+### Database & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,redis" />
+</p>
+
+`MySQL` • `SQL` • `Database Design` • `Joins` • `Transactions` • `JDBC` • `Redis`
 
 ### Frontend Development
 
@@ -160,21 +176,17 @@ Java backend project demonstrating **JDBC and relational database fundamentals**
 
 `HTML5` • `CSS3` • `JavaScript` • `React.js` • `Bootstrap` • `Tailwind CSS`
 
-### Database
+### Messaging & Architecture
+
+`Apache Kafka` • `Microservices` • `Event-Driven Architecture` • `System Design` • `Backend Architecture`
+
+### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,aws" />
 </p>
 
-`MySQL` • `SQL` • `Database Design` • `Joins` • `Transactions` • `JDBC`
-
-### Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker" />
-</p>
-
-`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman` • `Docker`
+`Git` • `GitHub` • `VS Code` • `IntelliJ IDEA` • `Postman` • `Docker` • `Docker Compose` • `AWS`
 
 ---
 
@@ -197,40 +209,72 @@ Spring Boot
     ↓
 REST API Development
     ↓
+Spring Security
+    ↓
 Full Stack Development
     ↓
+Redis & Caching
+    ↓
+Kafka & Event-Driven Concepts
+    ↓
+Microservices
+    ↓
 Docker & Cloud
+    ↓
+System Design
 ```
 
-I maintain dedicated repositories documenting this journey:
+I maintain dedicated repositories documenting my learning journey:
 
 * ☕ **Java Backend Roadmap**
 * 🗄️ **SQL for Java Developers**
 * 🌱 **Spring Framework for Java Developers**
 * 🚀 **Spring Boot for Java Developers**
 
-These repositories contain structured notes, examples, exercises, and practical implementations developed while strengthening my backend engineering fundamentals.
+These repositories contain structured notes, examples, exercises, and practical implementations created while strengthening my software development fundamentals.
 
 ---
 
-# 🎯 Currently Working On
+# 🎯 Currently Learning & Building
+
+I'm currently focusing on understanding how modern backend systems work beyond basic CRUD applications.
 
 ```java
 public class CurrentFocus {
 
     String[] learning = {
         "Advanced Spring Boot",
-        "Backend Architecture",
-        "REST API Design",
-        "Docker",
+        "Spring Security",
+        "Redis & Caching",
+        "Apache Kafka",
+        "Microservices",
+        "Docker & Docker Compose",
         "AWS",
+        "System Design",
         "Data Structures & Algorithms"
     };
 
     String goal =
-        "Build production-ready Java backend applications";
+        "Build reliable and maintainable Java backend systems";
 }
 ```
+
+My current focus is on applying these concepts through **practical projects and experiments**, rather than learning them only theoretically.
+
+---
+
+# 📈 What I Like Working On
+
+* Backend APIs and business logic
+* Authentication and authorization
+* Database-driven applications
+* Real-time communication
+* Payment integrations
+* Caching and performance concepts
+* Event-driven systems
+* Containerized applications
+* Full-stack application development
+* Developer tools
 
 ---
 
@@ -254,7 +298,7 @@ public class CurrentFocus {
 
 I'm interested in opportunities involving **Java Backend Development, Spring Boot, Full Stack Development, and Software Engineering**.
 
-If you're looking for a developer who enjoys learning deeply and building practical software, feel free to connect with me.
+I enjoy learning by building practical applications and continuously improving my understanding of backend engineering.
 
 <div align="center">
 
